@@ -6,7 +6,6 @@
 - ASP.NET 6 WebApi
 - Database: Microsoft SQL server.
 - Framework/ library: Entity framework 
-- Postman (for testing api)
 
 - Generated JWS key : https://8gwifi.org/jwsgen.jsp
 
